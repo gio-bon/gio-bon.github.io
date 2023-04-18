@@ -24,7 +24,7 @@ facebook:
 github:
   url   : https://www.github.com/
   icon  : fab fa-github
-  color : 333333
+  color : 009186
 
 gitlab:
   url   : https://www.gitlab.com/
@@ -98,5 +98,5 @@ keybase:
 
 codeberg:
   url   : https://codeberg.org/
-  icon  : fas fa-mountain
-  color : ff8800
+  icon  : fas fa-code
+  color : 0044d0
