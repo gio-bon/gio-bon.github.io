@@ -8,11 +8,11 @@ weight: 3
 # **Sobre mim**
 
 Olá, sou o **{{ site.author.name }}** :wave:,<br>
-Trabalho como desenvolvedor e sou formado em Tecnologia da Informação. Tenho interesse em cloud e desenvolvimento web. Conheça um pouco do meu trabalho.
+Trabalho como desenvolvedor e sou formado em Tecnologia da Informação. Tenho interesse em cloud e desenvolvimento web. Conheça um pouco do meu trabalho e habilidades.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Skills de Programação" source=site.data.programming-skills %}
+{% include about/skills.html title="Outras Skills" source=site.data.other-skills %}
 </div>
 
 <div class="row">
