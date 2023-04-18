@@ -97,6 +97,6 @@ keybase:
   color : 66ccff
 
 codeberg:
-  url   : https://codeberg.org
-  icon  : fa-mountain
+  url   : https://codeberg.org/
+  icon  : fa-solid fa-mountain
   color : ff8800
