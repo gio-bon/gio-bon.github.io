@@ -2,10 +2,10 @@
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: C#
+  percentage: 50
+  color: primary
 
 - name: Python
-  percentage: 70
+  percentage: 60
   color: secondary

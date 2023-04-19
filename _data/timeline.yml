@@ -1,15 +1,10 @@
-- title: Estudante, Bacharelado em Tecnologia da Informação
+- title: 🎓 Bacharelado em Tecnologia da Informação
   from: 2020
   to: 2023
   description: Após três anos, iniciado em 2020, concluo meu Bacharelado em 
                Tecnologia da Informação pela UNIVESP.
 
-- title: Certificação, Azure Fundamentals
-  from: 2022
-  description: Obtida a certificação AZ-900 por demonstrar conhecimento de nível
-               básico em serviços em nuvem e como eles são fornecidos pela Microsoft Azure.
-
-- title: Estagiário, Grupo GFT
+- title: ⚡️ Grupo GFT
   from: 03.2022
   to: 12.2022
   description: Treinamento e desenvolvendo de metodologias ágeis; 
@@ -18,3 +13,8 @@
                de arquitetura de software Model-View-Controller (MVC); SGBD 
                utilizado foi o MySQL; Versionamento de projetos em Git e GitLab. 
                TDD e API Rest.
+
+- title: Azure Fundamentals
+  from: 2022
+  description: Obtida a certificação AZ-900 por demonstrar conhecimento de nível
+               básico em serviços em nuvem e como eles são fornecidos pela Microsoft Azure.
