@@ -5,8 +5,8 @@
                Tecnologia da Informação pela UNIVESP.
 
 - title: ⚡️ Grupo GFT
-  from: 03.2022
-  to: 12.2022
+  from: 03/2022
+  to: 12/2022
   description: Treinamento e desenvolvendo de metodologias ágeis; 
                Desenvolvimento Back-End em C# utilizando o Framework DotNet, 
                integrando o Front-End com HTML e CSS. Desenvolvendo no padrão 
@@ -14,7 +14,7 @@
                utilizado foi o MySQL; Versionamento de projetos em Git e GitLab. 
                TDD e API Rest.
 
-- title: Azure Fundamentals
+- title: 🧾 Azure Fundamentals
   from: 2022
   description: Obtida a certificação AZ-900 por demonstrar conhecimento de nível
                básico em serviços em nuvem e como eles são fornecidos pela Microsoft Azure.
