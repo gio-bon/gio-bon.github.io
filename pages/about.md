@@ -18,3 +18,5 @@ Trabalho como desenvolvedor e sou formado em Tecnologia da Informação. Tenho i
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643ab565e2725773748e17df?variant=dark)](https://roadmap.sh)
