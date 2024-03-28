@@ -1,4 +1,0 @@
-RewriteEngine On
-RewriteCond %{REQUEST_URI} !/pt$
-RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]{1,5})$
-RewriteRule ^(.*)$ /pt/$1 [R=301,L]

@@ -1,0 +1,1 @@
+RewriteRule ^/(.*) /pt/$1 [L]
