@@ -1,0 +1,154 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+#branding{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 700;
+    font-size: 1.8rem;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 60ch;
+}
+
+.home h1{
+    font-size: 3rem;
+}
+
+.home_txt{
+    line-height: 1.5;
+}
+
+.timeline_txt{
+    line-height: 2;
+}
+
+.timeline_txt h5{
+    margin-bottom: -8px;
+    margin-top: 10px;
+}
+
+nav{
+    padding-bottom: 30px;
+}
+
+.btn-home{
+    margin: 5px 3px;
+    text-decoration: none ;
+    box-shadow: none;
+    opacity: .4;
+    transition: opacity .8s;
+}
+
+.btn-home:hover{
+    opacity: 1;
+}
+
+.projects{
+    margin-bottom: 30px;
+}
+
+.projects h5{
+    margin-bottom: 5px;    
+}
+
+#profile-img{
+    border-radius: 50%;
+    width: 70px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.img-proj{
+    width: 100%;
+
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+a{
+    color: #a4acba
+}
+a:hover{
+    color: #e0e9fa;
+}
+
+u, a{
+    text-decoration-color: #0659e9;
+    transition: text-decoration-color 0.3s;
+}
+
+u:hover, a:hover{
+    text-decoration-color: #508df5;
+}
+
+h1, h2, h3, h4, h5, h6, nav{
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.descricoes{
+    font-size: 1.2rem;
+}
+
+p{
+    line-height: 1.5;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    min-height: 78vh;
+}
+
+.profile-img-proj{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+small{
+    opacity: 0.6;
+}
+
+#sem-opacity{
+    opacity: 1;
+}
+
+.txt-descricao{
+    line-height: 1.4;
+    font-size: 16.5px;
+    color: #727986;
+    font-weight: 400;
+    margin-top: 12px;
+}
+
+.ico-color{
+    color: #b0e0ec;
+}
+
+.pagination{
+    justify-content: center;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.active-page{
+ 
+    opacity: 1;
+    padding: 6px;
+}
+
+.page-number-notactive{
+    opacity: 0.3;
+}
