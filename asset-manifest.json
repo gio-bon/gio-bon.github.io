@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gio-bon/gio-bon.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/gio-bon/gio-bon.github.io/static/js/main.45ba608b.js",
+    "static/js/453.906b0208.chunk.js": "/gio-bon/gio-bon.github.io/static/js/453.906b0208.chunk.js",
+    "static/media/logo.svg": "/gio-bon/gio-bon.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gio-bon/gio-bon.github.io/index.html",
+    "main.f855e6bc.css.map": "/gio-bon/gio-bon.github.io/static/css/main.f855e6bc.css.map",
+    "main.45ba608b.js.map": "/gio-bon/gio-bon.github.io/static/js/main.45ba608b.js.map",
+    "453.906b0208.chunk.js.map": "/gio-bon/gio-bon.github.io/static/js/453.906b0208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.45ba608b.js"
+  ]
+}
